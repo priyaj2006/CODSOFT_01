@@ -4,6 +4,7 @@ Overview
 A TO-DO List application is a simple project that helps users manage and organize their daily tasks efficiently.
 
 Features
+
 -Add new tasks
 -Update or delete tasks 
 -Display all tasks
