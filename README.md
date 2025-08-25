@@ -7,7 +7,9 @@ A TO-DO List application is a simple project that helps users manage and organiz
 Features
 
 -Add new tasks
+
 -Update or delete tasks 
+
 -Display all tasks
 
 This Project is completed as Task 1 for my Internship
